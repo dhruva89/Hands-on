@@ -1,4 +1,4 @@
-package programCreek;
+package leetCode;
 import java.util.Scanner;
 
 public class Candies {
